@@ -85,11 +85,11 @@ fields:
             color: '$complementary'
       title:
         fontWeight: ['400', '700']
-        fontStyle: ['normal', 'italic']
+        fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
       subtitle:
         fontWeight: ['400', '700']
-        fontStyle: ['normal', 'italic']
+        fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
       actions:
         justifyContent: ['flex-start', 'flex-end', 'center']
@@ -108,7 +108,6 @@ fields:
         textAlign: center
       subtitle:
         fontWeight: 400
-        fontStyle: normal
         textAlign: center
       actions:
         justifyContent: center

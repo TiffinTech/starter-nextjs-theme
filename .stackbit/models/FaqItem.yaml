@@ -18,4 +18,4 @@ fields:
     styles:
       question:
         fontWeight: ['400', '700']
-        fontStyle: ['normal', 'italic']
+        fontStyle: ['italic']

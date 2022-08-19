@@ -110,7 +110,7 @@ fields:
         boxShadow: '*'
       title:
         fontWeight: ['400', '700']
-        fontStyle: ['normal', 'italic']
+        fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
       text:
         textAlign: ['left', 'center', 'right']

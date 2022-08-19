@@ -628,7 +628,6 @@
                             },
                             "subtitle": {
                                 "fontWeight": 400,
-                                "fontStyle": "normal",
                                 "textAlign": "left"
                             }
                         }
@@ -654,7 +653,6 @@
                             },
                             "subtitle": {
                                 "fontWeight": 400,
-                                "fontStyle": "normal",
                                 "textAlign": "left"
                             }
                         }
@@ -744,7 +742,6 @@
                             },
                             "subtitle": {
                                 "fontWeight": 400,
-                                "fontStyle": "normal",
                                 "textAlign": "center"
                             },
                             "text": {

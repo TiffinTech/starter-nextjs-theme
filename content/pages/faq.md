@@ -101,7 +101,6 @@ sections:
         textAlign: left
       subtitle:
         fontWeight: '400'
-        fontStyle: normal
         textAlign: left
       actions:
         justifyContent: flex-start
