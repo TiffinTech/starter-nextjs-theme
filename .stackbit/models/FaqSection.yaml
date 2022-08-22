@@ -80,6 +80,7 @@ fields:
         fontWeight: ['400', '700']
         fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
+        textDecoration: ['underline']
       subtitle:
         fontWeight: ['400', '700']
         fontStyle: ['italic']

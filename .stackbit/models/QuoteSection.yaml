@@ -74,10 +74,12 @@ fields:
         fontWeight: ['400', '700']
         fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
+        textDecoration: ['underline']
       title:
         fontWeight: ['400', '700']
         fontStyle: ['italic']
         textAlign: ['left', 'center', 'right']
+        textDecoration: ['underline']
     default:
       self:
         height: auto

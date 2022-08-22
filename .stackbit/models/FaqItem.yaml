@@ -19,3 +19,4 @@ fields:
       question:
         fontWeight: ['400', '700']
         fontStyle: ['italic']
+        textDecoration: ['underline']

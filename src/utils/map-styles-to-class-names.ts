@@ -1,15 +1,5 @@
 const TAILWIND_MAP = {
-    fontSize: {
-        'x-small': 'text-xs',
-        small: 'text-sm',
-        medium: 'text-base',
-        large: 'text-lg',
-        'x-large': 'text-xl',
-        'xx-large': 'text-2xl',
-        'xxx-large': 'text-3xl'
-    },
     fontStyle: {
-        normal: 'non-italic',
         italic: 'italic'
     },
     fontWeight: {
@@ -27,6 +17,10 @@ const TAILWIND_MAP = {
         center: 'text-center',
         right: 'text-right',
         justify: 'text-justify'
+    },
+    textDecoration: {
+        underline: 'underline',
+        'line-through': 'line-through'
     },
     justifyContent: {
         'flex-start': 'justify-start',
