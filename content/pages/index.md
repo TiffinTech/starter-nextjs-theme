@@ -48,9 +48,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
-      ofg
-
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
