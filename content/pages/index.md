@@ -53,7 +53,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: 'One Platform, One '
+    subtitle: 'One Platform, One Community'
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
