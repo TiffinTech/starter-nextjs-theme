@@ -47,6 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: One P
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
