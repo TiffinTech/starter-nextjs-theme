@@ -49,7 +49,6 @@ sections:
         justifyContent: flex-start
     badge:
       type: Badge
-      label: This is the badge
       elementId: ''
       styles:
         self:
