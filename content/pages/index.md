@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: One P
+    subtitle: One Platform One
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
